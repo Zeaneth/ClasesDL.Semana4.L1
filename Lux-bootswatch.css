@@ -9609,3 +9609,12 @@ th {
 .card-title, .card-header {
   color: inherit;
 }
+
+/* From here onwards, all classes are included by Zamiz */
+.superior-section {
+  background-image: url("images/bg.jpeg");
+  object-fit: fill;
+}
+.logo {
+  max-width: 100%;
+}
