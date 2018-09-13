@@ -9645,3 +9645,8 @@ th {
 .img-fluid-adjusted {
   max-width: 80%;
 }
+
+.jumbotron p {
+  margin-top: 0.75rem;
+
+}
