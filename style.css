@@ -4,7 +4,11 @@
   object-fit: fill;
 }
 .logo {
-  max-width: 100%;
+  max-width: 20%;
+}
+
+.navbar-brand {
+  margin-left: 0.5rem;
 }
 
 .superior-section h1{
