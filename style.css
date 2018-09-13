@@ -38,3 +38,9 @@
   margin-top: 0.75rem;
 
 }
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 0.5rem 0;
+}
