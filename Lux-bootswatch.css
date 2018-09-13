@@ -9619,3 +9619,25 @@ th {
   max-width: 100%;
 }
 
+.superior-section h1{
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.superior-section p{
+  color: white;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.superior-section button{
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.top-nav {
+padding-top: 0.5rem;
+}
