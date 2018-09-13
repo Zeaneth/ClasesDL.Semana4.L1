@@ -4141,7 +4141,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
-  display: block;
+  display: inline; /* Edited from block;*/
   padding: 0.5rem 1rem;
 }
 
@@ -9618,3 +9618,4 @@ th {
 .logo {
   max-width: 100%;
 }
+
